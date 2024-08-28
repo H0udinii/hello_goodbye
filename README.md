@@ -1,2 +1,2 @@
 # hello_goodbye
- starter respritory
+ starter repository
